@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<a href="https://data.typeracer.com/pit/profile?user=elhilali_zakariya&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=elhilali_zakariya" border="0" alt="TypeRacer.com scorecard for user elhilali_zakariya"/></a>
+[<a href="https://data.typeracer.com/pit/profile?user=elhilali_zakariya&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=elhilali_zakariya" border="0" alt="TypeRacer.com scorecard for user elhilali_zakariya"/></a>](https://data.typeracer.com/misc/badge?user=elhilali_zakariya)
 <!--
 **elhilalizakariya/elhilalizakariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
