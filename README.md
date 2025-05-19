@@ -51,7 +51,7 @@
 <br/><br/>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
-### My Portable Scorecard of typing
+### My Typing Scorecard
 
 [<a href="https://data.typeracer.com/pit/profile?user=elhilali_zakariya&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=elhilali_zakariya" border="0" alt="TypeRacer.com scorecard for user elhilali_zakariya"/></a>](https://data.typeracer.com/misc/badge?user=elhilali_zakariya)
 
