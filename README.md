@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+Welcome+to+my+profile.;I+am+a+Full+Stack+Web+Developer.;Feel+free+to+check+out+my+projects." alt="Typing SVG" /></a>
 
 
 [<a href="https://data.typeracer.com/pit/profile?user=elhilali_zakariya&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=elhilali_zakariya" border="0" alt="TypeRacer.com scorecard for user elhilali_zakariya"/></a>](https://data.typeracer.com/misc/badge?user=elhilali_zakariya)
