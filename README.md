@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+Welcome+to+my+profile.;I+am+a+Full+Stack+Web+Developer.;Feel+free+to+check+out+my+projects." alt="Typing SVG" /></a>
 
 <h3>
-  - 🌱 I am a full-stack developer. <br/>
+  - 🌱 I am a full-stack web developer. <br/>
   - 🔭 Working on projects using React.js, Laravel, Tailwind CSS, and JavaScript<br/>         
   - 🎓 Studying algorithms data structure and improving coding skills <br/>
   - 🤝 I’m open to collaborations and professional opportunities—don’t hesitate to get in touch.<br/>
